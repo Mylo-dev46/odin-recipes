@@ -1,1 +1,2 @@
 # odin-recipes
+# lightweight restaurant website, testing my skills on html elements and precisely the how to naviagate through different pages of a website. with more light on relative and absolute links.
